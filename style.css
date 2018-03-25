@@ -1,9 +1,18 @@
 @font-face {font-family: Big Sky; src: url('./fonts/BigSky.ttf'); }
+@font-face {font-family: Awesome Birds; src: url('./fonts/AwesomeBirds.ttf'); }
 
 .space {
   margin-top: 40px;
 }
 
 #title {
-  font-family: "Big Sky";
+  text-align: center;
+  font-family: "Awesome Birds";
+  font-size: 100px;
+}
+
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
