@@ -1,0 +1,9 @@
+@font-face {font-family: Big Sky; src: url('./fonts/BigSky.ttf'); }
+
+.space {
+  margin-top: 40px;
+}
+
+#title {
+  font-family: "Big Sky";
+}
