@@ -12,3 +12,19 @@
   height: 50px;
   line-height: 50px;
 }
+
+#about{
+  font-family: "Big Sky";
+  font-size: 30px;
+  position: relative;
+  top: -100px;
+  left: -50px;
+}
+
+#resume{
+  font-family: "Big Sky";
+  font-size: 30px;
+  position: relative;
+  top: -157px;
+  left: 550px;
+}
